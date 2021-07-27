@@ -23,7 +23,7 @@ public class ActiTime {
 	   
 	   
 	   
-	   
+	   //changes in github
 	   //WebElement pwd  = driver.findElement(By.name("pwd"));
 	   user.sendKeys("admin"); 
 	   pwd.sendKeys("manager");	
